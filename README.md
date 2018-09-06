@@ -1,6 +1,6 @@
 # openpgp_api_flutter
 
-Flutter port of openpgp-api
+Flutter port of [openpgp-api](https://github.com/open-keychain/openpgp-api)
 
 ## Getting Started
 
